@@ -1,1 +1,41 @@
-test
+{
+    "author": "",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "f97d00",
+            "ambassador": "78d83c",
+            "bouncer": "d91420",
+            "cohost": "f97d00",
+            "residentdj": "78d83c",
+            "host": "f97d00",
+            "manager": "14a4c3"
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "font": [],
+        "import": [],
+        "rule": {}
+    },
+    "images": {
+        "background": "http:\/\/i.imgur.com\/N82wzhY.png",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "http:\/\/i.imgur.com\/YCVCz06.png",
+            "cohost": "http:\/\/i.imgur.com\/Ou4kJdW.png",
+            "residentdj": "http:\/\/i.imgur.com\/k67cezK.png",
+            "host": "http:\/\/i.imgur.com\/Ou4kJdW.png",
+            "manager": "http:\/\/i.imgur.com\/jA1aNLW.png"
+        },
+        "playback": ""
+    },
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
+}
