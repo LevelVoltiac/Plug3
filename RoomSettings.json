@@ -3,13 +3,13 @@
     "colors": {
         "background": "",
         "chat": {
-            "admin": "f97d00",
-            "ambassador": "78d83c",
-            "bouncer": "d91420",
-            "cohost": "f97d00",
-            "residentdj": "78d83c",
-            "host": "f97d00",
-            "manager": "14a4c3"
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
         },
         "footer": "",
         "header": ""
@@ -20,7 +20,7 @@
         "rule": {}
     },
     "images": {
-        "background": "http:\/\/i.imgur.com\/N82wzhY.png",
+        "background": "http:/\/\i.imgur.com/\yxTSmNv.jpg",
         "booth": "",
         "icons": {
             "admin": "",
